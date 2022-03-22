@@ -1,18 +1,29 @@
-
-public class Greeting {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Greetings from STS ");
-		System.out.println("Its Nice");
-		logOut();
-	}
-	
-	static void logOut()
+//java Greeting.java
+class Enquiry
+{
+	public static void main(String args[])
 	{
-		System.out.println("Logging Out");
+		System.out.println("Welcome to the world of Java Programming!!");
 	}
-	
-	
-
+}
+class Greet
+{
+	public static void main(String args[])
+	{
+		System.out.println("Greet from the world of Java Programming!!");
+	}
+}
+class Welcome
+{
+	public static void main(String args[])
+	{
+		System.out.println("You are welcome to the world of Java Programming!!");
+	}
+}
+class Vanakkam
+{
+	public static void main(String args[])
+	{
+		System.out.println("Vanakkam to the world of Java Programming!!");
+	}
 }
